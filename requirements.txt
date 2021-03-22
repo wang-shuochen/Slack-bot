@@ -1,0 +1,10 @@
+click==7.1.2
+firebase-admin==4.5.0
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+slack-bolt==1.2.3
+slack-sdk==3.2.0
+slackclient==2.9.3
+slackeventsapi==2.2.1
+Werkzeug==1.0.1
